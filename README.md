@@ -1,0 +1,1 @@
+Mapa con el porcentaje del sueldo mediano joven que se debe destinar al alquilar de una habitación en las capitales de provincia de España.
